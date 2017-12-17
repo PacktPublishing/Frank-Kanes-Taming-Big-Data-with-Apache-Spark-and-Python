@@ -44,5 +44,3 @@ This book is based on the Windows operating system, so installations are provide
 
 * [Taming Big Data with MapReduce and Hadoop - Hands On! [Video]](https://www.packtpub.com/big-data-and-business-intelligence/taming-big-data-mapreduce-and-hadoop-hands-video?utm_source=github&utm_medium=repository&utm_campaign=9781787125568)
 
-### Suggestions and Feedback
-[Click here](https://docs.google.com/forms/d/e/1FAIpQLSe5qwunkGf6PUvzPirPDtuy1Du5Rlzew23UBp2S-P3wB-GcwQ/viewform) if you have any feedback or suggestions.
